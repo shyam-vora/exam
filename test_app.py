@@ -1,4 +1,4 @@
-from calculator import *
+from app import *
 def test_add():
     add(a,b)
 def test_sub():
